@@ -19,3 +19,7 @@ def load_data(nrows):
     return data
 
 data = load_data(100000)
+
+if st.checkbox("Show Raw Data", False):
+    st.subheader('Raw Data')
+    st.write(data)
