@@ -13,6 +13,18 @@ Also, since the data file used for tracking is too big so git lsf was used to re
 
 For more help and info, please follow the given guide: [@Streamlit Docs](https://docs.streamlit.io/)
 
+## How does it look like?
+
+Here user can see the map and zoom in/out accordingly and also use the slider to choose a specific amount of collisions they want to focus on in the map.
+![Pic1](https://user-images.githubusercontent.com/74704369/158033232-0ad0ea2a-b10b-41e0-b698-76dfe3aa4aa5.png)
+
+Here user can see the a 3D interactive map and zoom in/out accordingly and also use the slider to choose a specific time of collisions they want to focus on in the map and also use the histogram to get a proper statistic.
+![Pic2](https://user-images.githubusercontent.com/74704369/158033233-4681e52b-c156-4f7d-85ec-fe0a6b082958.png)
+
+Here user can see the table in which they can choose a specific type of object to whom the collision occurs and get proper statistics.
+![pic3](https://user-images.githubusercontent.com/74704369/158033260-e0e205ac-7a32-46ba-83d3-ac190bf7e5a2.png)
+
+
 ## Author
 
 👤 **Ayman Tauhid**
