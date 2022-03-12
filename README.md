@@ -4,10 +4,6 @@
 
 > A data science web app build with python and streamlit to track the collisions of motor vehicles in a specific region of the world. The project is done for learning purposes and it showcases collisions of vehicle and their locations in an interactive way. Source code editor used: Atom.
 
-### 🏠 [Homepage](http://localhost:8501/)
-
-
-
 ## How to use it?
 
 To use and makes changes to this web app, if on windows, you must download anaconda first and setup an environment which supports streamlit package, after doing that, run the environment terminal and use the command &#34;streamlit run app.py&#34;. A web page will come up on your default web browser.
