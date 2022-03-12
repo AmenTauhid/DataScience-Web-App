@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> A data science web app build with python and streamlit to track the collisions of motor vehicles in a specific region of the world. The project is done for learning purposes and it showcases collisions of vehicle and their locations in an interactive way. Source code editor used: Atom.
+> A data science web app build with python and streamlit to track the collisions of motor vehicles in a specific region of the world. The project is done for learning purposes and to learn more about data science and use of different libraries and packages with python to produce beafutiful web apps. The app showcases collisions of vehicle and their locations in an interactive way. Source code editor used: Atom.
 
 ## How to use it?
 
